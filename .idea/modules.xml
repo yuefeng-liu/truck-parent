@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../truck-base/truck-base.iml" filepath="$PROJECT_DIR$/../truck-base/truck-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../truck-base/entities/truck-base-entities.iml" filepath="$PROJECT_DIR$/../truck-base/entities/truck-base-entities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../truck-base/entities/cms/truck-base-entities-cms.iml" filepath="$PROJECT_DIR$/../truck-base/entities/cms/truck-base-entities-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../truck-base/entities/member/truck-base-entities-member.iml" filepath="$PROJECT_DIR$/../truck-base/entities/member/truck-base-entities-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../truck-base/repositories/truck-base-repositories.iml" filepath="$PROJECT_DIR$/../truck-base/repositories/truck-base-repositories.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../truck-base/repositories/cms/truck-base-repositories-cms.iml" filepath="$PROJECT_DIR$/../truck-base/repositories/cms/truck-base-repositories-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../truck-base/repositories/member/truck-base-repositories-member.iml" filepath="$PROJECT_DIR$/../truck-base/repositories/member/truck-base-repositories-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../truck-cms/truck-cms.iml" filepath="$PROJECT_DIR$/../truck-cms/truck-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../truck-cms/api/truck-cms-api.iml" filepath="$PROJECT_DIR$/../truck-cms/api/truck-cms-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../truck-cms/components/truck-cms-components.iml" filepath="$PROJECT_DIR$/../truck-cms/components/truck-cms-components.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../truck-common/truck-common.iml" filepath="$PROJECT_DIR$/../truck-common/truck-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/truck-parent.iml" filepath="$PROJECT_DIR$/truck-parent.iml" />
+    </modules>
+  </component>
+</project>
