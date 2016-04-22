@@ -32,7 +32,7 @@
         <guava.version>18.0</guava.version>
 
         <druid.version>1.0.16</druid.version>
-        <dubbo.version>2.8.4</dubbo.version>
+        <dubbo.version>2.5.3</dubbo.version>
 
         <asm.version>4.2</asm.version>
 
@@ -50,6 +50,7 @@
         <beanutils.version>1.9.2</beanutils.version>
 
         <springfox.version>2.2.2</springfox.version>
+        <fasterxml.version>0.6.2</fasterxml.version>
     </properties>
 
     <dependencyManagement>
@@ -138,6 +139,12 @@
                         <artifactId>log4j</artifactId>
                     </exclusion>
                 </exclusions>
+            </dependency>
+
+            <dependency>
+                <groupId>com.fasterxml</groupId>
+                <artifactId>jackson-databind</artifactId>
+                <version>${fasterxml.version}</version>
             </dependency>
 
             <!-- asm字节码操控框架 http://asm.ow2.org/ -->
