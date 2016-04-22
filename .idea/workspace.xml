@@ -2,46 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="867b3293-da8d-40ae-97c1-a11300a20033" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_101tec_zkclient_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_2_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_2_5_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_2_8_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_rpc_api_2_8_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_databind_0_6_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_xml_databind_0_6_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_3_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_9_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_netty_netty_3_2_5_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_16.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../truck-cms/components/src/main/resources/dubbo-provider.xml" />
-      <change type="DELETED" beforePath="D:\workspace\idea14\itruck\truck-cms\api\target\maven-status\maven-compiler-plugin\testCompile\default-testCompile\inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\idea14\itruck\truck-cms\api\target\truck-cms-api-1.0.0.jar.original" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\idea14\itruck\truck-cms\components\target\maven-status\maven-compiler-plugin\testCompile\default-testCompile\inputFiles.lst" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../truck-cms/components/target/classes/com/truck/cms/Application.class" afterPath="$PROJECT_DIR$/../truck-cms/components/target/classes/com/truck/cms/Application.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../truck-cms/api/target/truck-cms-api-1.0.0.jar" afterPath="$PROJECT_DIR$/../truck-cms/api/target/truck-cms-api-1.0.0.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../truck-cms/components/target/truck-cms-components-1.0.0.jar" afterPath="$PROJECT_DIR$/../truck-cms/components/target/truck-cms-components-1.0.0.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../truck-cms/components/src/main/java/com/truck/cms/Application.java" afterPath="$PROJECT_DIR$/../truck-cms/components/src/main/java/com/truck/cms/Application.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../truck-cms/components/src/main/java/com/truck/cms/controller/CouponController.java" afterPath="$PROJECT_DIR$/../truck-cms/components/src/main/java/com/truck/cms/controller/CouponController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../truck-cms/components/src/main/java/com/truck/cms/component/CouponDetailComponent.java" afterPath="$PROJECT_DIR$/../truck-cms/components/src/main/java/com/truck/cms/component/CouponDetailComponent.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../truck-cms/api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/../truck-cms/api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../truck-cms/components/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/../truck-cms/components/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../truck-cms/api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/../truck-cms/api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../truck-cms/components/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/../truck-cms/components/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../truck-cms/api/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/../truck-cms/api/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../truck-cms/components/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/../truck-cms/components/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../truck-cms/components/pom.xml" afterPath="$PROJECT_DIR$/../truck-cms/components/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../truck-cms/components/truck-cms-components.iml" afterPath="$PROJECT_DIR$/../truck-cms/components/truck-cms-components.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../truck-cms/components/target/classes/com/truck/cms/component/CouponDetailComponent.class" afterPath="$PROJECT_DIR$/../truck-cms/components/target/classes/com/truck/cms/component/CouponDetailComponent.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="truck-parent.iws" />
@@ -122,8 +83,8 @@
       <file leaf-file-name="CouponDetailComponent.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../truck-cms/components/src/main/java/com/truck/cms/component/CouponDetailComponent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.523416" vertical-offset="171" max-vertical-offset="817">
-              <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+            <state vertical-scroll-proportion="1.234536" vertical-offset="224" max-vertical-offset="817">
+              <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -954,7 +915,7 @@
       <updated>1461204807776</updated>
       <workItem from="1461204813513" duration="702000" />
       <workItem from="1461205622452" duration="29489000" />
-      <workItem from="1461292425301" duration="21703000" />
+      <workItem from="1461292425301" duration="22518000" />
     </task>
     <task id="LOCAL-00001" summary="springboot+mybatis+pagehelper+swqgger">
       <created>1461309964173</created>
@@ -962,15 +923,21 @@
       <option name="project" value="LOCAL" />
       <updated>1461309964173</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="springboot+mybatis+pagehelper+dubbo">
+      <created>1461319882109</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1461319882109</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51894000" />
+    <option name="totallyTimeSpent" value="52709000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -982,8 +949,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3697749" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3697749" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.329582" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3697749" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1020,7 +987,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="springboot+mybatis+pagehelper+swqgger" />
-    <option name="LAST_COMMIT_MESSAGE" value="springboot+mybatis+pagehelper+swqgger" />
+    <MESSAGE value="springboot+mybatis+pagehelper+dubbo" />
+    <option name="LAST_COMMIT_MESSAGE" value="springboot+mybatis+pagehelper+dubbo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1388,8 +1356,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../truck-cms/components/src/main/java/com/truck/cms/component/CouponDetailComponent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.523416" vertical-offset="171" max-vertical-offset="817">
-          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        <state vertical-scroll-proportion="1.234536" vertical-offset="224" max-vertical-offset="817">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
           <folding />
         </state>
       </provider>
