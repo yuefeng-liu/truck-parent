@@ -4,14 +4,28 @@
     <file url="file://$PROJECT_DIR$/../truck-base" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../truck-base/entities" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../truck-base/entities/cms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../truck-base/entities/common" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../truck-base/entities/member" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../truck-base/logics" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../truck-base/logics/common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../truck-base/logics/member" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../truck-base/repositories" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../truck-base/repositories/cms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../truck-base/repositories/common" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../truck-base/repositories/member" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../truck-cms" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../truck-cms/api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../truck-cms/components" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../truck-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../truck-member" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../truck-member/api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../truck-member/components" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../truck-portal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../truck-portal/gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../truck-utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../truck-utils/common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../truck-utils/config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../truck-utils/gateway" charset="UTF-8" />
   </component>
 </project>

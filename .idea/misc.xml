@@ -31,6 +31,9 @@
   <component name="EntryPointsManager">
     <entry_points version="2.0" />
   </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../truck-portal" />
+  </component>
   <component name="IdProvider" IDEtalkID="6A9C5EE8AE7090D991790164B97C2988" />
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -39,10 +42,14 @@
         <option value="$PROJECT_DIR$/../truck-common/pom.xml" />
         <option value="$PROJECT_DIR$/../truck-cms/pom.xml" />
         <option value="$PROJECT_DIR$/../truck-base/pom.xml" />
+        <option value="$PROJECT_DIR$/../truck-utils/pom.xml" />
+        <option value="$PROJECT_DIR$/../truck-member/pom.xml" />
+        <option value="$PROJECT_DIR$/../truck-portal/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/../truck-base-enitites/common/pom.xml" />
         <option value="$PROJECT_DIR$/../truck-base/cms/pom.xml" />
       </set>
     </option>

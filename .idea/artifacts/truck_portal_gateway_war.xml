@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="truck-portal-gateway:war">
+    <output-path>$PROJECT_DIR$/../truck-portal/gateway/target</output-path>
+    <root id="archive" name="truck-portal-gateway-1.0.0.war">
+      <element id="artifact" artifact-name="truck-portal-gateway:war exploded" />
+    </root>
+  </artifact>
+</component>

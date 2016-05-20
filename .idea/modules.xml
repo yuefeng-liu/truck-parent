@@ -5,18 +5,29 @@
       <module fileurl="file://$PROJECT_DIR$/../truck-base/truck-base.iml" filepath="$PROJECT_DIR$/../truck-base/truck-base.iml" />
       <module fileurl="file://$PROJECT_DIR$/../truck-base/entities/truck-base-entities.iml" filepath="$PROJECT_DIR$/../truck-base/entities/truck-base-entities.iml" />
       <module fileurl="file://$PROJECT_DIR$/../truck-base/entities/cms/truck-base-entities-cms.iml" filepath="$PROJECT_DIR$/../truck-base/entities/cms/truck-base-entities-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../truck-base/entities/common/truck-base-entities-common.iml" filepath="$PROJECT_DIR$/../truck-base/entities/common/truck-base-entities-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/../truck-base/entities/member/truck-base-entities-member.iml" filepath="$PROJECT_DIR$/../truck-base/entities/member/truck-base-entities-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../truck-base/logics/truck-base-logics.iml" filepath="$PROJECT_DIR$/../truck-base/logics/truck-base-logics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../truck-base/logics/common/truck-base-logics-common.iml" filepath="$PROJECT_DIR$/../truck-base/logics/common/truck-base-logics-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../truck-base/logics/member/truck-base-logics-member.iml" filepath="$PROJECT_DIR$/../truck-base/logics/member/truck-base-logics-member.iml" />
       <module fileurl="file://$PROJECT_DIR$/../truck-base/repositories/truck-base-repositories.iml" filepath="$PROJECT_DIR$/../truck-base/repositories/truck-base-repositories.iml" />
       <module fileurl="file://$PROJECT_DIR$/../truck-base/repositories/cms/truck-base-repositories-cms.iml" filepath="$PROJECT_DIR$/../truck-base/repositories/cms/truck-base-repositories-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../truck-base/repositories/common/truck-base-repositories-common.iml" filepath="$PROJECT_DIR$/../truck-base/repositories/common/truck-base-repositories-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/../truck-base/repositories/member/truck-base-repositories-member.iml" filepath="$PROJECT_DIR$/../truck-base/repositories/member/truck-base-repositories-member.iml" />
       <module fileurl="file://$PROJECT_DIR$/../truck-cms/truck-cms.iml" filepath="$PROJECT_DIR$/../truck-cms/truck-cms.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../truck-cms/truck-cms.iml" filepath="$PROJECT_DIR$/../truck-cms/truck-cms.iml" />
       <module fileurl="file://$PROJECT_DIR$/../truck-cms/api/truck-cms-api.iml" filepath="$PROJECT_DIR$/../truck-cms/api/truck-cms-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../truck-cms/api/truck-cms-api.iml" filepath="$PROJECT_DIR$/../truck-cms/api/truck-cms-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../truck-cms/components/truck-cms-components.iml" filepath="$PROJECT_DIR$/../truck-cms/components/truck-cms-components.iml" />
       <module fileurl="file://$PROJECT_DIR$/../truck-cms/components/truck-cms-components.iml" filepath="$PROJECT_DIR$/../truck-cms/components/truck-cms-components.iml" />
       <module fileurl="file://$PROJECT_DIR$/../truck-common/truck-common.iml" filepath="$PROJECT_DIR$/../truck-common/truck-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../truck-member/truck-member.iml" filepath="$PROJECT_DIR$/../truck-member/truck-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../truck-member/api/truck-member-api.iml" filepath="$PROJECT_DIR$/../truck-member/api/truck-member-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../truck-member/components/truck-member-components.iml" filepath="$PROJECT_DIR$/../truck-member/components/truck-member-components.iml" />
       <module fileurl="file://$PROJECT_DIR$/truck-parent.iml" filepath="$PROJECT_DIR$/truck-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../truck-portal/truck-portal.iml" filepath="$PROJECT_DIR$/../truck-portal/truck-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../truck-portal/gateway/truck-portal-gateway.iml" filepath="$PROJECT_DIR$/../truck-portal/gateway/truck-portal-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../truck-utils/truck-utils.iml" filepath="$PROJECT_DIR$/../truck-utils/truck-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../truck-utils/common/truck-utils-common.iml" filepath="$PROJECT_DIR$/../truck-utils/common/truck-utils-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../truck-utils/config/truck-utils-config.iml" filepath="$PROJECT_DIR$/../truck-utils/config/truck-utils-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../truck-utils/gateway/truck-utils-gateway.iml" filepath="$PROJECT_DIR$/../truck-utils/gateway/truck-utils-gateway.iml" />
     </modules>
   </component>
 </project>

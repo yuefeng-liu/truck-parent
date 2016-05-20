@@ -23,28 +23,54 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="common" />
         <module name="truck-base-entities-cms" />
+        <module name="truck-base-entities-common" />
         <module name="truck-base-entities-member" />
+        <module name="truck-base-logics-common" />
+        <module name="truck-base-logics-member" />
         <module name="truck-base-repositories-cms" />
+        <module name="truck-base-repositories-common" />
         <module name="truck-base-repositories-member" />
         <module name="truck-cms-api" />
         <module name="truck-cms-components" />
         <module name="truck-common" />
+        <module name="truck-member-api" />
+        <module name="truck-member-components" />
+        <module name="truck-portal-gateway" />
+        <module name="truck-utils-common" />
+        <module name="truck-utils-config" />
+        <module name="truck-utils-gateway" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="common" target="1.8" />
       <module name="truck-base" target="1.8" />
       <module name="truck-base-entities" target="1.8" />
       <module name="truck-base-entities-cms" target="1.8" />
+      <module name="truck-base-entities-common" target="1.8" />
       <module name="truck-base-entities-member" target="1.8" />
+      <module name="truck-base-logics" target="1.8" />
+      <module name="truck-base-logics-common" target="1.8" />
+      <module name="truck-base-logics-member" target="1.8" />
       <module name="truck-base-repositories" target="1.8" />
       <module name="truck-base-repositories-cms" target="1.8" />
+      <module name="truck-base-repositories-common" target="1.8" />
       <module name="truck-base-repositories-member" target="1.8" />
       <module name="truck-cms" target="1.8" />
       <module name="truck-cms-api" target="1.8" />
       <module name="truck-cms-components" target="1.8" />
-      <module name="truck-common" target="1.8" />
+      <module name="truck-common" target="1.7" />
+      <module name="truck-member" target="1.8" />
+      <module name="truck-member-api" target="1.8" />
+      <module name="truck-member-components" target="1.8" />
       <module name="truck-parent" target="1.8" />
+      <module name="truck-portal" target="1.8" />
+      <module name="truck-portal-gateway" target="1.8" />
+      <module name="truck-utils" target="1.8" />
+      <module name="truck-utils-common" target="1.8" />
+      <module name="truck-utils-config" target="1.8" />
+      <module name="truck-utils-gateway" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
