@@ -2,95 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="867b3293-da8d-40ae-97c1-a11300a20033" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../truck-cms/api/src/main/java/com/truck/cms/api/response/AllInOnePage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../truck-cms/api/src/main/java/com/truck/cms/api/errors/CmsErrorCodes.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../truck-cms/api/src/main/java/com/truck/cms/api/response/DataInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../truck-cms/api/src/main/java/com/truck/cms/api/response/DatabindingInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../truck-cms/api/src/main/java/com/truck/cms/api/response/Definition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../truck-cms/api/src/main/java/com/truck/cms/api/response/Item.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_openservices_aliyun_openservices_1_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_dozer_dozer_5_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_broker_5_12_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_client_5_12_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_openwire_legacy_5_12_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_j2ee_management_1_1_spec_1_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_jms_1_1_spec_1_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_fluent_hc_4_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_7_0_39.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_catalina_7_0_39.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_7_0_39.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_7_0_39.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_servlet_api_7_0_39.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_util_7_0_39.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk14_1_50.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_fusesource_hawtbuf_hawtbuf_1_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20140107.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_generator_mybatis_generator_core_1_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_all_4_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_1_3_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_redis_1_3_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_1_6_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_7_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../truck-cms/api/src/main/java/com/truck/cms/api/response/ModuleInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../truck-cms/api/src/main/java/com/truck/cms/api/errors/PageErrorCodes.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../truck-cms/api/src/main/java/com/truck/cms/api/response/PageInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../truck-cms/api/src/main/java/com/truck/cms/api/response/Pagination.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/truck_portal_gateway_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/truck_portal_gateway_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/truck_portal_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/truck_portal_war_exploded.xml" />
-      <change type="DELETED" beforePath="D:\workspace\idea14\itruck\truck-parent\.idea\libraries\Maven__antlr_antlr_2_7_7.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\idea14\itruck\truck-parent\.idea\libraries\Maven__com_fasterxml_jackson_xml_databind_0_6_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\idea14\itruck\truck-parent\.idea\libraries\Maven__dom4j_dom4j_1_6_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\idea14\itruck\truck-parent\.idea\libraries\Maven__javax_transaction_javax_transaction_api_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\idea14\itruck\truck-parent\.idea\libraries\Maven__org_codehaus_jackson_jackson_core_asl_1_9_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\idea14\itruck\truck-parent\.idea\libraries\Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\idea14\itruck\truck-parent\.idea\libraries\Maven__org_hibernate_common_hibernate_commons_annotations_4_0_5_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\idea14\itruck\truck-parent\.idea\libraries\Maven__org_hibernate_hibernate_core_4_3_11_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\idea14\itruck\truck-parent\.idea\libraries\Maven__org_hibernate_hibernate_entitymanager_4_3_11_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\idea14\itruck\truck-parent\.idea\libraries\Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\idea14\itruck\truck-parent\.idea\libraries\Maven__org_jboss_logging_jboss_logging_annotations_1_2_0_Beta1.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\idea14\itruck\truck-parent\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_aop_1_3_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\idea14\itruck\truck-parent\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_data_jpa_1_3_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\idea14\itruck\truck-parent\.idea\libraries\Maven__org_springframework_data_spring_data_commons_1_11_4_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\idea14\itruck\truck-parent\.idea\libraries\Maven__org_springframework_data_spring_data_jpa_1_9_4_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\idea14\itruck\truck-parent\.idea\libraries\Maven__org_springframework_spring_aspects_4_2_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\idea14\itruck\truck-parent\.idea\libraries\Maven__xml_apis_xml_apis_1_0_b2.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../truck-cms/components/target/classes/com/truck/cms/Application.class" afterPath="$PROJECT_DIR$/../truck-cms/components/target/classes/com/truck/cms/Application.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../truck-cms/components/target/classes/com/truck/cms/component/CouponDetailComponent.class" afterPath="$PROJECT_DIR$/../truck-cms/components/target/classes/com/truck/cms/component/CouponDetailComponent.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../truck-cms/api/target/classes/com/truck/cms/api/CouponDetailService.class" afterPath="$PROJECT_DIR$/../truck-cms/api/target/classes/com/truck/cms/api/CouponDetailService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../truck-cms/components/src/main/java/com/truck/cms/Application.java" afterPath="$PROJECT_DIR$/../truck-cms/components/src/main/java/com/truck/cms/Application.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../truck-cms/components/src/main/java/com/truck/cms/component/CouponDetailComponent.java" afterPath="$PROJECT_DIR$/../truck-cms/components/src/main/java/com/truck/cms/component/CouponDetailComponent.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../truck-cms/api/src/main/java/com/truck/cms/api/CouponDetailService.java" afterPath="$PROJECT_DIR$/../truck-cms/api/src/main/java/com/truck/cms/api/CouponDetailService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../truck-cms/components/src/main/resources/dubbo-provider.xml" afterPath="$PROJECT_DIR$/../truck-cms/components/src/main/resources/dubbo-provider.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../truck-cms/api/pom.xml" afterPath="$PROJECT_DIR$/../truck-cms/api/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../truck-cms/components/pom.xml" afterPath="$PROJECT_DIR$/../truck-cms/components/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../truck-cms/api/truck-cms-api.iml" afterPath="$PROJECT_DIR$/../truck-cms/api/truck-cms-api.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../truck-cms/components/truck-cms-components.iml" afterPath="$PROJECT_DIR$/../truck-cms/components/truck-cms-components.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\workspace\idea14\itruck\truck-parent\.idea\libraries\Maven__com_101tec_zkclient_0_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_1_39.xml" />
-      <change type="MOVED" beforePath="D:\workspace\idea14\itruck\truck-parent\.idea\libraries\Maven__com_alibaba_dubbo_2_4_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" />
-      <change type="MOVED" beforePath="D:\workspace\idea14\itruck\truck-parent\.idea\libraries\Maven__com_alibaba_dubbo_2_8_4.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="MOVED" beforePath="D:\workspace\idea14\itruck\truck-parent\.idea\libraries\Maven__com_alibaba_dubbo_rpc_api_2_8_4.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
-      <change type="MOVED" beforePath="D:\workspace\idea14\itruck\truck-parent\.idea\libraries\Maven__com_fasterxml_classmate_1_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_sgroschupf_zkclient_0_1.xml" />
-      <change type="MOVED" beforePath="D:\workspace\idea14\itruck\truck-parent\.idea\libraries\Maven__com_fasterxml_jackson_databind_0_6_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_4_1.xml" />
-      <change type="MOVED" beforePath="D:\workspace\idea14\itruck\truck-parent\.idea\libraries\Maven__javax_xml_stream_stax_api_1_0_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
-      <change type="MOVED" beforePath="D:\workspace\idea14\itruck\truck-parent\.idea\libraries\Maven__org_apache_zookeeper_zookeeper_3_3_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk14_1_50.xml" />
-      <change type="MOVED" beforePath="D:\workspace\idea14\itruck\truck-parent\.idea\libraries\Maven__org_codehaus_jackson_jackson_xc_1_9_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" />
-      <change type="MOVED" beforePath="D:\workspace\idea14\itruck\truck-parent\.idea\libraries\Maven__org_codehaus_woodstox_stax2_api_3_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_api_7_0_39.xml" />
-      <change type="MOVED" beforePath="D:\workspace\idea14\itruck\truck-parent\.idea\libraries\Maven__org_jboss_jandex_1_1_0_Final.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jdom_jdom_1_1.xml" />
-      <change type="MOVED" beforePath="D:\workspace\idea14\itruck\truck-parent\.idea\libraries\Maven__org_springframework_spring_orm_4_2_5_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jms_4_2_5_RELEASE.xml" />
     </list>
     <ignored path="truck-parent.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -226,8 +138,8 @@
       <file leaf-file-name="ApiManager.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../truck-utils/gateway/src/main/java/com/truck/utils/gateway/utils/core/ApiManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4729494" vertical-offset="869" max-vertical-offset="11140">
-              <caret line="80" column="0" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.40314135" vertical-offset="869" max-vertical-offset="11140">
+              <caret line="78" column="9" selection-start-line="78" selection-start-column="9" selection-end-line="78" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -994,7 +906,7 @@
       <workItem from="1463033827160" duration="1996000" />
       <workItem from="1463474215701" duration="14883000" />
       <workItem from="1463564579048" duration="23493000" />
-      <workItem from="1463708844809" duration="9362000" />
+      <workItem from="1463708844809" duration="9529000" />
     </task>
     <task id="LOCAL-00001" summary="springboot+mybatis+pagehelper+swqgger">
       <created>1461309964173</created>
@@ -1014,15 +926,21 @@
       <option name="project" value="LOCAL" />
       <updated>1461320823685</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="springboot+mybatis+pagehelper+dubbo">
+      <created>1463739176085</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1463739176085</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="163680000" />
+    <option name="totallyTimeSpent" value="163847000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1045,7 +963,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.363047" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329582" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2723824" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2723824" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
@@ -1101,6 +1019,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.15862069" vertical-offset="6810" max-vertical-offset="8218">
           <caret line="508" column="0" selection-start-line="508" selection-start-column="0" selection-end-line="508" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1500,8 +1419,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../truck-utils/gateway/src/main/java/com/truck/utils/gateway/utils/core/ApiManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4729494" vertical-offset="869" max-vertical-offset="11140">
-          <caret line="80" column="0" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.40314135" vertical-offset="869" max-vertical-offset="11140">
+          <caret line="78" column="9" selection-start-line="78" selection-start-column="9" selection-end-line="78" selection-end-column="9" />
           <folding />
         </state>
       </provider>
