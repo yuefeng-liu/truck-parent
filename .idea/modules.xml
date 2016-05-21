@@ -19,8 +19,6 @@
       <module fileurl="file://$PROJECT_DIR$/../truck-cms/components/truck-cms-components.iml" filepath="$PROJECT_DIR$/../truck-cms/components/truck-cms-components.iml" />
       <module fileurl="file://$PROJECT_DIR$/../truck-common/truck-common.iml" filepath="$PROJECT_DIR$/../truck-common/truck-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/../truck-member/truck-member.iml" filepath="$PROJECT_DIR$/../truck-member/truck-member.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../truck-member/api/truck-member-api.iml" filepath="$PROJECT_DIR$/../truck-member/api/truck-member-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../truck-member/components/truck-member-components.iml" filepath="$PROJECT_DIR$/../truck-member/components/truck-member-components.iml" />
       <module fileurl="file://$PROJECT_DIR$/truck-parent.iml" filepath="$PROJECT_DIR$/truck-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/../truck-portal/truck-portal.iml" filepath="$PROJECT_DIR$/../truck-portal/truck-portal.iml" />
       <module fileurl="file://$PROJECT_DIR$/../truck-portal/gateway/truck-portal-gateway.iml" filepath="$PROJECT_DIR$/../truck-portal/gateway/truck-portal-gateway.iml" />

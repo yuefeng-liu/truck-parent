@@ -23,7 +23,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="common" />
         <module name="truck-base-entities-cms" />
         <module name="truck-base-entities-common" />
         <module name="truck-base-entities-member" />
@@ -44,7 +43,6 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="common" target="1.8" />
       <module name="truck-base" target="1.8" />
       <module name="truck-base-entities" target="1.8" />
       <module name="truck-base-entities-cms" target="1.8" />

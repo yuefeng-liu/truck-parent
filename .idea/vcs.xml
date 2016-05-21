@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../truck-base" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../truck-cms" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../truck-common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../truck-member" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../truck-portal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../truck-utils" vcs="Git" />
   </component>
 </project>
